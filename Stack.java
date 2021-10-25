@@ -1,7 +1,7 @@
 /*
  Stack Code W/ Linked implementation (Dynamic Structure)
  */
-public class stack {
+public class Stack {
     private Node top;
 
     //Check stack if empty, return true. otherwise false.
